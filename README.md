@@ -1,5 +1,8 @@
-#### 抖音api小红书api淘宝api天猫api京东api tiktok api youtube api Instagram api twitter api amazon api Ebay api
+#### tiktok api youtube api Instagram api twitter api amazon api Ebay api
 #### We can provide the following APIs, contact me for details and quotes
+
+#### 价格：支持先用后付，0.01CNY/call
+#### Price: Support pay after use, 0.01CNY/call == 0.00014USD/call
 
 #### wechat: Q1074457857
 #### telegram: https://t.me/hhqiao
